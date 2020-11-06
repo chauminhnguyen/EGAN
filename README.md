@@ -6,4 +6,4 @@ To run the program, download [ipynb file](EGAN.ipynb) and upload it to [Google C
 
 ### Result
 
-![Result](imgs/result.png)
+![Result](./imgs/result.png)
