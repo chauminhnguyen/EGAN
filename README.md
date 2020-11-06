@@ -1,8 +1,8 @@
 ## EGAN (Evolutionary GAN)
 
-Detail of EGAN will be reported in [report](report.pdf).
+Detail of EGAN is reported in [Report](Report.pdf).
 
-To run the program, download [ipynb file](EGAN.ipynb) and upload it to [Google Colab](https://colab.research.google.com/notebooks/) and Run all.
+To run the program, download [Ipynb file](EGAN.ipynb) and upload it to [Google Colab](https://colab.research.google.com/notebooks/) and Run all.
 
 ### Result
 
