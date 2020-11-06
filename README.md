@@ -1,4 +1,4 @@
-## EGAN (Evolutionary GAN)
+## EGAN (Evolutionary Generative Adversarial Network)
 
 Detail of EGAN is reported in [Report](Report.pdf).
 
